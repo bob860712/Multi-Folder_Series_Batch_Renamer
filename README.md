@@ -1,6 +1,5 @@
-[README.md](https://github.com/user-attachments/files/32680150/README.md)
 # Multi-Folder Series Batch Renamer
-
+![App Preview](images/screenshot.png)
 A lightweight, high-performance GUI tool designed for media collectors to effortlessly batch-rename TV series, anime, and subtitles across multiple folders. Perfectly structured for seamless **Jellyfin**, **Emby**, and **Plex** metadata scraping.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
